@@ -1,0 +1,4 @@
+/logs/
+/.vertx/
+/.idea/
+/target/
